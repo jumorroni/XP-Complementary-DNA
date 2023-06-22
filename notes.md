@@ -26,10 +26,25 @@ Return the other complementary side
 DNA != null or ' '
 
 POMODORO 1: DRIVER: JULIANA
-- Create project and organize code 
-- Start DOMAIN and understand the task 
-- Create first test: ("Should return 'T' when the function receives 'A'")
-- Make test fail
-- Create prode code
-- Make test pass 
-- Commit
+- Create project and organize code ✅
+- Start DOMAIN and understand the task ✅
+- Create first test: ("Should return 'T' when the function receives 'A'") ✅
+- Make test fail ✅
+- Create prode code ✅
+- Make test pass ✅
+- Commit ✅
+
+POMODORO 2: DRIVER: JULIANA
+- Create project and organize code ✅
+- Start DOMAIN and understand the task ✅
+- Create second test: ("Should return 'G' when the function receives 'C'") ✅
+- Make test fail ✅
+- Create prode code ✅
+- Make test pass ✅
+- Commit ✅
+
+- Create third test: ("Should return 'TAACG' when the function receives 'ATTGC'") ✅
+- Make test fail ✅
+- Create prode code ✅
+- Make test pass ✅
+- Commit ✅

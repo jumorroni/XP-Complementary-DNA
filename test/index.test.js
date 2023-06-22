@@ -10,5 +10,9 @@ describe('', () => {
         expect(complementDna('C')).toBe('G');
     });
 
+    test("Should return 'TAACG' when the function receives 'ATTGC'", () => {
+        expect(complementDna('ATTGC')).toBe('TAACG');
+    });
+
 });
 

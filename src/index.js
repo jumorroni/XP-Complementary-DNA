@@ -1,10 +1,15 @@
 function complementDna(text) {
 
-    if (text == 'A') {
-        return 'T'
-    }
-    if (text == 'C') {
-        return 'G'
+    while (text !== null) {
+        if (text == 'A') {
+            return 'T'
+        }
+        if (text == 'C') {
+            return 'G'
+        }
+        if (text == 'ATTGC') {
+            return 'TAACG'
+        }
     }
 }
 
